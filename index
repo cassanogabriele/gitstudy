@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+	<html lang="fr">
+		<head>
+			<meta charset="utf-8">	
+			<title>Git project study</title>	
+			<style>
+			p{ color: red; }
+			</style>
+		</head>			
+		
+		<body>
+			<h1>Projet Git</h1>
+			<p>Voilà le Projet Git - 1</p>
+		</body>
+	</html>
+
